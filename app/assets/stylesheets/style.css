@@ -16,6 +16,33 @@ body {
 }
 
 @-webkit-keyframes shift-bg{
+  0%  { background-image: url('/assets/backgroundpics/pic1.jpg'); }
+  10% { background-image: url('/assets/backgroundpics/pic2.jpg');  }
+  20% { background-image: url('/assets/backgroundpics/pic3.jpg'); }
+  30% { background-image: url('/assets/backgroundpics/pic4.jpg'); }
+  40% { background-image: url('/assets/backgroundpics/pic5.jpg'); }
+  50% { background-image: url('/assets/backgroundpics/pic6.jpg'); }
+  60% { background-image: url('/assets/backgroundpics/pic7.jpg'); }
+  70% { background-image: url('/assets/backgroundpics/pic8.jpg'); }
+  80% { background-image: url('/assets/backgroundpics/pic9.jpg'); }
+  90% { background-image: url('/assets/backgroundpics/pic10.jpg'); }
+  100% { background-image: url('/assets/backgroundpics/pic11.jpg'); }
+}
+
+@keyframes shift-bg {
+  0%  { background-image: url('/assets/backgroundpics/pic1.jpg'); }
+  10% { background-image: url('/assets/backgroundpics/pic2.jpg');  }
+  20% { background-image: url('/assets/backgroundpics/pic3.jpg'); }
+  30% { background-image: url('/assets/backgroundpics/pic4.jpg'); }
+  40% { background-image: url('/assets/backgroundpics/pic5.jpg'); }
+  50% { background-image: url('/assets/backgroundpics/pic6.jpg'); }
+  60% { background-image: url('/assets/backgroundpics/pic7.jpg'); }
+  70% { background-image: url('/assets/backgroundpics/pic8.jpg'); }
+  80% { background-image: url('/assets/backgroundpics/pic9.jpg'); }
+  90% { background-image: url('/assets/backgroundpics/pic10.jpg'); }
+  100% { background-image: url('/assets/backgroundpics/pic11.jpg'); }
+}
+/*@-webkit-keyframes shift-bg{
   0%  { background-image: url('http://i.jootix.com/o/unnamed--976979fcaf.jpg'); }
   10% { background-image: url('http://hdwallpapersfit.com/wp-content/uploads/2015/03/christ-the-redeemer-rio-de-janeiro-world-hd-wallpaper-1920x1200-1132.jpg');  }
   20% { background-image: url('http://www.wallpaperawesome.com/wallpapers-awesome/wallpapers-cities-metropolis-monuments-palaces-architecture-churches-awesome/wallpaper-moscow-red-square-russia.jpg'); }
@@ -30,7 +57,7 @@ body {
 }
 
 @keyframes shift-bg {
-0%  { background-image: url('http://i.jootix.com/o/unnamed--976979fcaf.jpg'); }
+  0%  { background-image: url('http://i.jootix.com/o/unnamed--976979fcaf.jpg'); }
   10% { background-image: url('http://hdwallpapersfit.com/wp-content/uploads/2015/03/christ-the-redeemer-rio-de-janeiro-world-hd-wallpaper-1920x1200-1132.jpg');  }
   20% { background-image: url('http://www.wallpaperawesome.com/wallpapers-awesome/wallpapers-cities-metropolis-monuments-palaces-architecture-churches-awesome/wallpaper-moscow-red-square-russia.jpg'); }
   30% { background-image: url('http://img0.mxstatic.com/wallpapers/916166a350eec8c6a7a93eb073998e75_large.jpeg'); }
@@ -41,7 +68,7 @@ body {
   80% { background-image: url('http://ewallpapers-hub.com/wp-content/uploads/2014/08/prague-wallpaper.jpg'); }
   90% { background-image: url('http://travelhdwallpapers.com/wp-content/uploads/2014/04/Wall-of-China-4.jpg'); }
   100% { background-image: url('http://modernmagazin.com/wp-content/uploads/2014/06/times-square-new-york-.jpg'); }
-}
+}*/
 
 .login{
     background-color: rgba(0,0,0,.5);
