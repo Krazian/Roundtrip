@@ -16,7 +16,7 @@ body {
 }
 
 @-webkit-keyframes shift-bg{
-  0%  { background-image: url('/assets/backgroundpics/pic1.jpg'); }
+  0%  { background-image: url('/app/assets/backgroundpics/pic1.jpg'); }
   10% { background-image: url('/assets/backgroundpics/pic2.jpg');  }
   20% { background-image: url('/assets/backgroundpics/pic3.jpg'); }
   30% { background-image: url('/assets/backgroundpics/pic4.jpg'); }
@@ -30,7 +30,7 @@ body {
 }
 
 @keyframes shift-bg {
-  0%  { background-image: url('/assets/backgroundpics/pic1.jpg'); }
+  0%  { background-image: url('/app/assets/backgroundpics/pic1.jpg'); }
   10% { background-image: url('/assets/backgroundpics/pic2.jpg');  }
   20% { background-image: url('/assets/backgroundpics/pic3.jpg'); }
   30% { background-image: url('/assets/backgroundpics/pic4.jpg'); }
